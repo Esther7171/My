@@ -28,3 +28,7 @@ add to script to cron tab
  
 3. add ur ssh auth to victim to get any time ssh
 
+
+
+https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
+
