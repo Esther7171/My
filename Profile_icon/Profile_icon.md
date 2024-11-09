@@ -32,3 +32,5 @@
 <a target="_blank" style="display: inline-block;"><img src="https://github.com/user-attachments/assets/5a57b79e-69a2-441c-9f1b-c345d72de436" alt="meta" width="50" height="50" />
 <a target="_blank" style="display: inline-block;"><img src="https://th.bing.com/th/id/OIP.Ll31010YsXqq-zCo5a36bQAAAA?rs=1&pid=ImgDetMain" alt="" width="50" height="50" />
 [![My Skills](https://skillicons.dev/icons?i=postman&perline=8)](https://skillicons.dev)
+<a href="https://ghidra-sre.org" target="_blank" rel="noreferrer"> <img
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ghidra_logo.svg/1200px-Ghidra_logo.svg.png" alt="ghidra" width="40" height="40"/></a>
